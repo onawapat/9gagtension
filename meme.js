@@ -1,5 +1,29 @@
 var memes = [
 	{
+	  matches: ['watch out', 'watchout', 'badass'],
+	  img: 'watch-out.jpg'
+	},
+	{
+	  matches: ['feel like a sir', 'flas', 'fls'],
+	  img: 'feel-like-a-sir.jpg'
+	},
+	{
+	  matches: ['challenge accepted', 'ca'],
+	  img: 'challenge-accepted.jpg'
+	},
+	{
+	  matches: ['aww yeah', 'ay'],
+	  img: 'aww-yeah.jpg'
+	},
+	{
+	  matches: ['oh crap', 'oc', 'omg', 'oh my god'],
+	  img: 'omg.jpg'
+	},
+	{
+	  matches: ['lol'],
+	  img: 'lol.jpg'
+	},
+	{
 	  matches: ['true story', 'ts', 'truestory'],
 	  img: 'true-story.jpg'
 	},
