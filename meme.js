@@ -82,5 +82,21 @@ var memes = [
 	{
 	  matches: ['y u no', 'yuno'],
 	  img: 'y-u-no-guy.jpg'
+	},
+	{
+		matches: ['no'],
+		img: 'no.jpg'
+	},
+	{
+		matches: ['fm1', 'freddy mercury'],
+		img: 'fm1.jpg'
+	},
+	{
+		matches: ['so close', 'fm2'],
+		img: 'fm2.jpg'
+	},
+	{
+		matches: ['st', 'semi troll'],
+		img: 'semi-troll.jpg'
 	}
 ];
